@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Frozen II (2019)",
+    "rating": "7,3",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "releaseDate": "22 November 2019 (Spain)\n",
+    "genres": ["Animation", "Adventure", "Comedy"]
+  },
+  {
+    "title": "Star Wars: Los últimos Jedi (2017)",
+    "rating": "7,1",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "releaseDate": "14 December 2017 (Spain)\n",
+    "genres": ["Action", "Adventure", "Fantasy"]
+  }
+]
